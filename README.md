@@ -1,6 +1,6 @@
 # Blogs
 
-##Mini server app in NodeJS and with framework Express
+## Mini server app in NodeJS and with framework Express
 
 To use this app you need express framework
 
