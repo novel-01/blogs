@@ -34,3 +34,6 @@ Content-Type: application/json
 ## DELETE request orqali biror id'dagi blogni o'chirish
 
 `DELETE http://localhost:3000/blogs/1`
+
+
+just new commit
